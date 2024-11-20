@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,9 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+:where(.css-dev-only-do-not-override-49qm).ant-layout-header {
+  line-height:  20px !important;
 }
